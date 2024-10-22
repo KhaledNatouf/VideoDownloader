@@ -1,6 +1,6 @@
-This is a java project that would be to take a youtube link 
-1- Downlaod it using Youtube-dl
-2- Transcribe it using existing libraries
-3- Translate it using google translate 
-4- Speak it back in the language of your choice using Ai tool
-5- Send it using an email or something 
+This is a Java project that would take a YouTube link <br/>
+1- Download it using Youtube-dl <br/>
+2- Transcribe it using existing libraries <br/>
+3- Translate it using Google translate <br/>
+4- Speak it back in the language of your choice using AI tool <br/>
+5- Send it using an email or something <br/>
